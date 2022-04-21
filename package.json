@@ -6,6 +6,7 @@
     "postinstall": "umi setup",
     "start": "npm run dev"
   },
+  "license": "MIT",
   "dependencies": {
     "umi": "^4.0.0-rc.12"
   },
